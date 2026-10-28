@@ -98,5 +98,6 @@ Received 2026-10-28 from the legal review of the officer's certificate. They bec
 ## 8. Reference material
 
 - [Current State](current-state.md): what the Collectibles service does with Phygitals today. Every story's Baseline tag is measured against it.
+- [Existing Jira Tickets](existing-tickets.md): the MN Collectibles tickets (four epics, 108 tickets) mapped to these modules, with what is not ticketed anywhere.
 - Phygitals Partner API **1.17.0**: `Collectibles/docs/phygitals-api-reference.json`. The copy in the `api` repo is **1.0.0** and out of date.
 - [Multi-Brand Pack Aggregator](https://claude.ai/artifact/3zLvSBVD4FWCzcvPCme66x): a solution sketch, offered to engineering as input. It is not a requirement. It was written against API 1.0.0; the 1.17.0 spec adds a prepaid balance read, partner-owned packs, shipping cancellation, transfers between users and two more events, which changes several limits the sketch lists.

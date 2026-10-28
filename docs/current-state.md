@@ -7,7 +7,7 @@
 
 # Phygitals Aggregator - Current State
 
-What the **Collectibles** service already does with Phygitals, so every story can say whether its need **Exists**, exists in **Partial** form, or is **New**. This page describes; it does not prescribe. Whether the aggregator grows out of Collectibles or is built beside it is engineering's call.
+What the **Collectibles** service already does with Phygitals, so every story can say whether its need **Exists**, exists in **Partial** form, or is **New**. This page describes; it does not prescribe. The Jira tickets behind this work, mapped to the aggregator's modules, are in [Existing Jira Tickets](existing-tickets.md). Whether the aggregator grows out of Collectibles or is built beside it is engineering's call.
 
 **Snapshot:** Collectibles, branch `dev`, commit `14bd76c` (2026-10-28), Phygitals Partner API **1.17.0**. Read from the code and `docs/shared-topology.md` on 2026-10-28. Engineering: correct anything that is wrong here, then re-check the Baseline tags that depend on it.
 

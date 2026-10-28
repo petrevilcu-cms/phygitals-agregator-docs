@@ -17,6 +17,7 @@ The resulting tree:
 - `Phygitals Aggregator` (root, created by hand)
   - `Phygitals Aggregator - Product Overview`
   - `Phygitals Aggregator - Current State`
+  - `Phygitals Aggregator - Existing Jira Tickets`
   - `Phygitals Aggregator - Decision Log`
   - `Phygitals Aggregator - Glossary`
   - `Phygitals Aggregator - Project Guide`

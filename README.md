@@ -26,6 +26,7 @@ flowchart LR
 docs/
   overview.md               Product overview: problem, givens, actors, scope (entry page)
   current-state.md          What Collectibles already does with Phygitals (Exists / Partial / New baseline)
+  existing-tickets.md       MN Jira tickets for Collectibles, mapped to the modules, and what is not ticketed
   decision-log.md           Open questions and confirmed decisions
   glossary.md               Terms used across the pages
   project-guide.md          How to edit and publish
