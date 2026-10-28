@@ -35,6 +35,7 @@ docs/
     user-stories.md           Stories with acceptance criteria (PM)
     sdd.md                    Solution design (engineering)
   _templates/               Page templates (never published)
+asks/                       Ready-to-send questions for legal, commercial, finance, Phygitals (never published)
 scripts/                    Local publish helper (publish-confluence.sh)
 SETUP-CONFLUENCE.md         One-time Confluence + credentials setup
 CODEOWNERS                  Review routing
