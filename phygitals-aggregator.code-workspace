@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "phygitals-agregator-docs",
+      "path": ".",
+    },
+    {
+      "name": "Collectibles",
+      "path": "../Collectibles",
+    },
+    {
+      "name": "api",
+      "path": "../api",
+    },
+  ],
+  "settings": {},
+}

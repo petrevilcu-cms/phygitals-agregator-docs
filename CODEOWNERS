@@ -1,0 +1,12 @@
+# Review routing for the Phygitals Aggregator requirements docs.
+# Replace the placeholder handles with real ones before enabling
+# "require review from Code Owners" branch protection.
+
+# Everything falls back to product.
+*                                   @phygitals-aggregator/product
+
+# Solution design slots belong to engineering.
+/docs/modules/*/sdd.md              @phygitals-aggregator/engineering
+
+# Publish tooling changes need platform review.
+/scripts/                           @phygitals-aggregator/platform

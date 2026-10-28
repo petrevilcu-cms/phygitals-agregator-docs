@@ -1,0 +1,17 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = space
+indent_size = 2
+
+# Markdown docs are the source that publishes to Confluence. Do not hard-wrap
+# prose: write one paragraph per line and let the editor soft-wrap. Source line
+# length does not affect Confluence width (that is controlled by the pipeline's
+# full-width content appearance).
+[*.md]
+max_line_length = off
+trim_trailing_whitespace = false

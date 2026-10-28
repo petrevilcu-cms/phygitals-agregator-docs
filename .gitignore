@@ -1,0 +1,17 @@
+# Local mark / tooling artifacts
+*.log
+.env
+.env.*
+node_modules/
+.DS_Store
+
+# Rendered Mermaid output (rendered fresh on publish, never committed)
+.mermaid-cache/
+*.mmd.svg
+
+# Local source-audit clones of tooling (e.g. mark), never committed
+.mark-audit/
+
+# IDE (IntelliJ IDEA)
+.idea/
+*.iml
